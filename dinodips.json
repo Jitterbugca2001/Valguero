@@ -112,7 +112,7 @@
 						"chancetodrop": 0.5
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Trike/Trike_Character_BP.Trike_Character_BP_C",
+						"dino": "/PA_Ascension/Dinos/PaleoTrike/Paleo_Trike_Character_BP.Paleo_Trike_Character_BP_C",
 						"chancetodrop": 0.5
 					},
 					{
@@ -174,7 +174,7 @@
 						"chancetodrop": 0.5
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Stego/Stego_Character_BP.Stego_Character_BP_C",
+						"dino": "/PA_Ascension/Dinos/PaleoStego/Paleo_Stego_Character_BP.Paleo_Stego_Character_BP_C",
 						"chancetodrop": 0.5
 					},
 					{
@@ -202,7 +202,7 @@
 						"chancetodrop": 0.5
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Purlovia/Purlovia_Character_BP.Purlovia_Character_BP_C",
+						"dino": "/PA_Ascension/Dinos/PaleoPurlovia/Paleo_Purlovia_Character_BP.Paleo_Purlovia_Character_BP_C",
 						"chancetodrop": 0.5
 					},
 					{
@@ -210,7 +210,7 @@
 						"chancetodrop": 0.5
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Kentrosaurus/Kentro_Character_BP.Kentro_Character_BP_C",
+						"dino": "/PA_Ascension/Dinos/PaleoKentro/Paleo_Kentro_Character_BP.Paleo_Kentro_Character_BP_C",
 						"chancetodrop": 0.5
 					},
 					{
@@ -244,7 +244,7 @@
 						"chancetodrop": 0.5
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Sarco/Sarco_Character_BP.Sarco_Character_BP_C",
+						"dino": "/PA_Ascension/Dinos/PaleoSarco/Paleo_Sarco_Character_BP.Paleo_Sarco_Character_BP_C",
 						"chancetodrop": 0.5
 					},
 					{
@@ -335,7 +335,7 @@
 						"chancetodrop": 0.5
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Thylacoleo/Thylacoleo_Character_BP.Thylacoleo_Character_BP_C",
+						"dino": "/PA_Ascension/Dinos/PaleoThyla/Paleo_Thylacoleo_Character_BP.Paleo_Thylacoleo_Character_BP_C",
 						"chancetodrop": 0.5
 					},
 					{
@@ -359,7 +359,7 @@
 						"chancetodrop": 0.5
 					},
 					{
-						"dino": "/Game/ASA/Dinos/Gigantoraptor/Gigantoraptor_Character_BP.Gigantoraptor_Character_BP_C",
+						"dino": "/PA_Ascension/Dinos/PaleoGigantoraptor/Paleo_Gigantoraptor_Character_BP.Paleo_Gigantoraptor_Character_BP_C",
 						"chancetodrop": 0.5
 					},
 					{
@@ -417,19 +417,19 @@
 						"chancetodrop": 0.1
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Giganotosaurus/Gigant_Character_BP.Gigant_Character_BP_C",
+						"dino": "/PA_EVO_Pack_01/Dinos/EVO_Giga/Paleo/EVO_Paleo_Giga_Character_BP.EVO_Paleo_Giga_Character_BP_C",
 						"chancetodrop": 0.1
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Spino/Spino_Character_BP.Spino_Character_BP_C",
+						"dino": "/PA_Ascension/Dinos/PaleoSpino/Paleo_Spino_Character_BP.Paleo_Spino_Character_BP_C",
 						"chancetodrop": 0.1
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Carcharodontosaurus/Carcha_Character_BP.Carcha_Character_BP_C",
+						"dino": "/PA_Ascension/Dinos/PaleoCarcha/Paleo_Carcha_Character_BP.Paleo_Carcha_Character_BP_C",
 						"chancetodrop": 0.1
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Mosasaurus/Mosa_Character_BP.Mosa_Character_BP_C",
+						"dino": "/PA_EVO_Pack_02/Dinos/EVO_Mosa/Paleo/EVO_Paleo_Mosa_Character_BP.EVO_Paleo_Mosa_Character_BP_C",
 						"chancetodrop": 0.1
 					},
 					{
@@ -437,7 +437,7 @@
 						"chancetodrop": 0.1
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Yutyrannus/Yutyrannus_Character_BP.Yutyrannus_Character_BP_C",
+						"dino": "/PA_Ascension/Dinos/GreaterYuty/Paleo_Yutyrannus_Character_BP.Paleo_Yutyrannus_Character_BP_C",
 						"chancetodrop": 0.1
 					},
 					{
@@ -457,7 +457,7 @@
 						"chancetodrop": 0.1
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Rex/Rex_Character_BP.Rex_Character_BP_C",
+						"dino": "/PA_EVO_Pack_01/Dinos/EVO_Paleo_Rex_Character_BP.EVO_Paleo_Rex_Character_BP.Rex_Character_BP_C",
 						"chancetodrop": 0.1
 					},
 					{
@@ -465,7 +465,7 @@
 						"chancetodrop": 0.1
 					},
 					{
-						"dino": "/Game/ASA/Dinos/Deinotherium/Dinos/DeinotheriumASA_Character_BP.DeinotheriumASA_Character_BP_C",
+						"dino": "/PA_Ascension/Dinos/PaleoDeinotherium/Paleo_DeinotheriumASA_Character_BP.Paleo_DeinotheriumASA_Character_BP_C",
 						"chancetodrop": 0.1
 					},
 					{
@@ -473,7 +473,7 @@
 						"chancetodrop": 0.1
 					},
 					{
-						"dino": "/Game/ASA/Dinos/Deinosuchus/Deinosuchusasa_Character_BP.Deinosuchusasa_Character_BP_C",
+						"dino": "/PA_Ascension/Dinos/PaleoDeinosuchus/Paleo_DeinosuchusASA_Character_BP.Paleo_DeinosuchusASA_Character_BP_C",
 						"chancetodrop": 0.1
 					},
 					{
