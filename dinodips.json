@@ -7,6 +7,8 @@
 			"/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Summer.ShoulderDragon_Character_BP_Summer_C",
 			"/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Autumn.ShoulderDragon_Character_BP_Autumn_C",
 			"/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Winter.ShoulderDragon_Character_BP_Winter_C",
+			"/Game/PrimalEarth/Dinos/Raptor/Uberraptor/Deinonychus_Character_BP.Deinonychus_Character_BP_C",
+			"/Game/ASA/Dinos/Maelizard/Maelizard_Character_BP.Maelizard_Character_BP_C",
 			"/Game/ASA/Dinos/SpiritBear/SpiritBear_Character_BP.SpiritBear_Character_BP_C"
 		],
 		"weeksarrays": [
@@ -160,7 +162,7 @@
 					{
 						"dino": "/Game/Packs/Steampunk/Dinos/JumpingSpider/JumpingSpider_Character_BP.JumpingSpider_Character_BP_C",
 						"chancetodrop": 0.5
-		
+					
 					}
 				],
 				"dipstogive": 6
@@ -230,11 +232,6 @@
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Stag/Stag_Character_BP.Stag_Character_BP_C",
 						"chancetodrop": 0.5
-					},
-					{
-						"dino": "/Game/PrimalEarth/Dinos/Raptor/Uberraptor/Deinonychus_Character_BP.Deinonychus_Character_BP_C",
-						"chancetodrop": 0.5
-
 
 					}
 				],
@@ -490,10 +487,18 @@
 					{
 						"dino": "/Game/Aberration/Dinos/Nameless/Xenomorph_Character_BP_Female.Xenomorph_Character_BP_Female_C",
 						"chancetodrop": 0.1
+					},
+					{
+						"dino": "/Game/Mods/Valguero/Assets/Dinos/RockGolem/IceGolem/IceGolem_Character_BP.IceGolem_Character_BP_C",
+						"chancetodrop": 0.1
+					},
+					{
+						"dino": "/Game/Mods/Valguero/Assets/Dinos/RockGolem/ChalkGolem/ChalkGolem_Character_BP.ChalkGolem_Character_BP_C",
+						"chancetodrop": 0.1
 
 					}
 				],
-				"dipstogive": 7
+				"dipstogive": 8
 			}
 		]
 	}
