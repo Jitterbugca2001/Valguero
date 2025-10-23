@@ -154,10 +154,14 @@
 					{
 						"dino": "/PA_Ascension/Dinos/PaleoMoschops/Paleo_Moschops_Character_BP.Paleo_Moschops_Character_BP_C",
 						"chancetodrop": 0.5
-					
+					},
+					{
+						"dino": "/Game/Packs/Steampunk/Dinos/JumpingSpider/JumpingSpider_Character_BP.JumpingSpider_Character_BP_C",
+						"chancetodrop": 0.5
+
 					}
 				],
-				"dipstogive": 5
+				"dipstogive": 6
 			},
 			{
 				"weekforoptions": [
