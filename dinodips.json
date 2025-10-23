@@ -116,10 +116,6 @@
 						"chancetodrop": 0.5
 					},
 					{
-						"dino": "/Game/ScorchedEarth/Dinos/Camelsaurus/Camelsaurus_Character_BP.Camelsaurus_Character_BP_C",
-						"chancetodrop": 0.5
-					},
-					{
 						"dino": "/Game/PrimalEarth/Dinos/Bee/Bee_Queen_Character_BP.Bee_Queen_Character_BP_C",
 						"chancetodrop": 0.5
 					},
@@ -152,20 +148,16 @@
 						"chancetodrop": 0.5
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/BoaFrill/BoaFrill_Character_BP.BoaFrill_Character_BP_C",
-						"chancetodrop": 0.5
-					},
-					{
 						"dino": "/Game/PrimalEarth/Dinos/Pacy/Pachy_Character_BP.Pachy_Character_BP_C",
 						"chancetodrop": 0.5
 					},
 					{
-						"dino": "/Game/Packs/Steampunk/Dinos/JumpingSpider/JumpingSpider_Character_BP.JumpingSpider_Character_BP_C",
+						"dino": "/PA_Ascension/Dinos/PaleoMoschops/Paleo_Moschops_Character_BP.Paleo_Moschops_Character_BP_C",
 						"chancetodrop": 0.5
 					
 					}
 				],
-				"dipstogive": 6
+				"dipstogive": 5
 			},
 			{
 				"weekforoptions": [
