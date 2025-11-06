@@ -284,10 +284,6 @@
 						"chancetodrop": 0.5
 					},
 					{
-						"dino": "/Game/ScorchedEarth/Dinos/SpineyLizard/SpineyLizard_Character_BP.SpineyLizard_Character_BP_C",
-						"chancetodrop": 0.5
-					},
-					{
 						"dino": "/Game/ScorchedEarth/Dinos/Mantis/Mantis_Character_BP.Mantis_Character_BP_C",
 						"chancetodrop": 0.5
 					},
