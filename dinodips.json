@@ -272,7 +272,15 @@
 						"chancetodrop": 0.5
 					},
 					{
+						"dino": "/Game/PrimalEarth/Dinos/Direbear/Direbear_Character_Polar_BP.Direbear_Character_Polar_BP_C",
+						"chancetodrop": 0.5
+					},
+					{
 						"dino": "/Game/PrimalEarth/Dinos/Baryonyx/Baryonyx_Character_BP.Baryonyx_Character_BP_C",
+						"chancetodrop": 0.5
+					},
+					{
+						"dino": "/Game/PrimalEarth/Dinos/Baryonyx/Baryonyx_Character_BP_Aberrant.Baryonyx_Character_BP_Aberrant_BP_C",
 						"chancetodrop": 0.5
 					},
 					{
