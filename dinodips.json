@@ -388,16 +388,12 @@
 						"chancetodrop": 0.5
 					},					
 					{
-						"dino": "/Game/Extinction/Dinos/Owl/Owl_Character_BP.Owl_Character_BP_C",
-						"chancetodrop": 0.5
-					},
-					{
 						"dino": "/Game/Aberration/Dinos/CaveWolf/CaveWolf_Character_BP.CaveWolf_Character_BP_C",
 						"chancetodrop": 0.5
 
 					}
 				],
-				"dipstogive": 7
+				"dipstogive": 8
 			},
 			{
 				"weekforoptions": [
